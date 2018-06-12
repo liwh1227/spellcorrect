@@ -1,0 +1,17 @@
+a.out
+func.h
+outer.txt
+pthread_cancel.c
+pthread_cleanup.c
+pthread_mutex.c
+pthread_saletickets.c
+total 48
+drwxrwxr-x 2 abc abc  4096 Mar 25 17:45 .
+drwxrwxr-x 5 abc abc  4096 Mar 21 19:36 ..
+-rwxrwxr-x 1 abc abc 13352 Mar 25 07:13 a.out
+-rw-rw-r-- 1 abc abc   310 Mar 21 07:26 func.h
+-rw-rw-r-- 1 abc abc    96 Mar 25 17:48 outer.txt
+-rw-rw-r-- 1 abc abc   510 Mar 22 01:04 pthread_cancel.c
+-rw-rw-r-- 1 abc abc   754 Mar 22 01:59 pthread_cleanup.c
+-rw-rw-r-- 1 abc abc   804 Mar 22 00:47 pthread_mutex.c
+-rw-rw-r-- 1 abc abc  2077 Mar 25 07:13 pthread_saletickets.c
