@@ -1,8 +1,3 @@
- ///
- /// @file    Threadpool.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-11-24 16:19:59
- ///
  
 #ifndef __LWH_THREADPOOL_H__
 #define __LWH_THREADPOOL_H__
