@@ -1,7 +1,5 @@
  ///
  /// @file    MutexLock.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-11-02 14:41:52
  ///
  
 #include "MutexLock.h"
