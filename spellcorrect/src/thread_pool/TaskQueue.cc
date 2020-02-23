@@ -1,7 +1,5 @@
  ///
  /// @file    TaskQueue.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-11-24 14:48:54
  ///
  
 #include "TaskQueue.h"
