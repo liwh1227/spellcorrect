@@ -1,7 +1,5 @@
  ///
  /// @file    Thread.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-11-24 10:01:09
  ///
  
 #include "Thread.h"
