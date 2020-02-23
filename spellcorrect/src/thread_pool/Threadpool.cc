@@ -1,7 +1,5 @@
  ///
  /// @file    Threadpool.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2017-11-24 16:27:38
  ///
  
 #include "Threadpool.h"
